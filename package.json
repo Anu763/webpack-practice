@@ -1,0 +1,26 @@
+{
+  "name": "webpack-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anu763/webpack-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anu763/webpack-practice/issues"
+  },
+  "homepage": "https://github.com/Anu763/webpack-practice#readme",
+  "devDependencies": {
+    "css-loader": "^0.27.3",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.14.1",
+    "webpack": "^2.2.1"
+  }
+}
